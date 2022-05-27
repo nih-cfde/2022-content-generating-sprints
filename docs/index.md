@@ -1,55 +1,27 @@
-# The May 2022 NIH Common Fund Data Ecosystem Hackathon
+# Internal Content Generation Sprints
 
-We are pleased to announce that the NIH Common Fund Data Ecosystem will be hosting a hackathon on NIH Common Fund data sets from **May 9 - 13, 2022**. This hackathon has both synchronous and asynchronous work, with concentrated hackathon sessions on specific data sets. Participants can attend whichever hackathon sessions they are interested in. Participants can also form working groups and tackle issues throughout the week organized in a GitHub repository. There is no minimum work requirement, all are welcome to participate as much or as little as schedules and interest allow!
+The CFDE-CC will host two content generation sprints for DCCs and R03 recipients to produce annotations for CFDE Portal gene, anatomy terms, compounds, and diseases pages. Sprints will be in July and August, and are part of the larger effort to expand and showcase CFDE capabilities in preparation for the September demo to the Council of Councils.
 
-**To register, [sign up here](https://www.nih-cfde.org/events/may-2022-hackathon/).**
+## Who should participate?
 
-## Schedule
+Do you have information on genes, anatomy terms, compounds, and diseases that don't fit within the current C2M2? If so, we want you to come to this sprint so that we can work together to add this information to the portal!
 
-| Day | Date | Time | Topic | Links | 
-| --- | --- | --- | --- | --- |
-| Monday | 5/9/22 | 9 - 11 am PT | Welcome + Introduction to Data Sets | [Issue #12][12] |
-| Monday | 5/9/22 | 1 - 2 pm PT | CFDE Portal Demo | [Issue #11][11] |
-| Tuesday | 5/10/22 | 9 - 11 am PT | iHMP Data Exploration | [Issue #10][10] |
-| Tuesday | 5/10/22 | 1 - 3 pm PT | Knowledge Graph to access and analyze Common Fund data from KidsFirst and HuBMAP |  [Issue #9][9] |
-| Wednesday | 5/11/22 | 9 am - 12 pm PT | Introduction to R for RNA Sequencing Analysis with GTEx Data | [Issue #8][8] |
-| Wednesday | 5/11/22 | 1 - 3 pm PT | Exploring SPARC data on organ - nervous system connectivity | [Issue #7][7] |
-| Thursday | 5/12/22 | 9 - 11 am PT | Social Co-working |  [Issue #6][6] |
-| Thursday | 5/12/22 | 1 - 3 pm PT | Social Co-working | [Issue #6][6]  |
-| Friday | 5/13/22 | 9 - 11 am PT | Closing Session  | [Issue #5][5] |
+## Scheduling
 
-## Participating Groups
+We hope you will participate! Please [fill out this form](https://forms.gle/zppvKfF5NQPXj4sr9.) to indicated your interest, and add any blackout dates that do not work for you or your team. We will do our best to accommodate schedule requests!
 
-This event will feature sessions from the following groups:
+## CFDE Portal Annotations
 
-### Gabriella Miller Kids First Pediatric Research Program (Kids First) 
+The CFDE Portal can now support annotating controlled vocabulary pages with additional information. These annotations enrich existing pages by linking to external pages and metadata or interactive modules.
 
-The goal of the Gabriella Miller Kids First Pediatric Research Program (Kids First) is to help researchers uncover new insights into the biology of childhood cancer and structural birth defects, including the discovery of shared genetic pathways between these disorders. Children with birth defects have an increased risk of developing childhood cancer. This suggests there are shared genetic pathways underlying some types of childhood cancer and structural birth defects. Analyzing genetic sequence data from children with childhood cancer and structural birth defects together may lead to the discovery of new genetic pathways.
+See examples of annotated [Gene](https://app.nih-cfde.org/chaise/record/#1/CFDE:gene/nid=1) and [Anatomy](https://app.nih-cfde.org/chaise/record/#1/CFDE:anatomy/nid=253) pages under the “Resources” category.
 
-KF will host a session on accessing and using federated CFDE graph data through the Kids First-Human BioMolecular Atlas Program graph database with an API.
+We at the CFDE-CC will provide technical support while groups brainstorm and work together on building annotation-generating workflows throughout this sprint. Annotations must be written in a custom Markdown text format, and submitted to the CFDE-CC through a simple GitHub-based process. Importantly, annotations can be updated between portal data releases, on a semi-monthly schedule.
 
-### Stimulating Peripheral Activity to Relieve Conditions (SPARC)
+## Event Details
 
-The Common Fund’s Stimulating Peripheral Activity to Relieve Conditions (SPARC) program accelerates development of therapeutic devices that modulate electrical activity in nerves to improve organ function. This therapeutic strategy, also known as “bioelectronic medicine,” could offer new treatment options for diverse diseases and conditions such as hypertension, heart failure, gastrointestinal disorders, and more.
+Both sprints will last 5 days and be largely asynchronous, besides an introductory session to cover technical infrastructure and support. Several sessions will be run to help accommodate schedule conflicts. Throughout the week, co-working sessions over zoom with breakout rooms will be available where we can resolve problems and share solutions. A closing session will recap what work was accomplished, and goals for the next sprint.
 
-SPARC will host a session on providing information on access to SPARC resources via the SPARC portal and associated APIs.
+## Contact
 
-### Common Fund Data Ecosystem Coordinating Center (CFDE-CC)
-
-The (Common Fund Data Ecosystem Coordinating Center) CFDE-CC supports efforts to make Common Fund data sets more findable, accessible, interoperable, and reusable (FAIR) for the scientific community through collaboration, end-user training, and data set sustainability. The CFDE-CC manages and organizes CFDE activities, engage with participating Common Fund programs, connect with user communities, support training, develop tools and standards, and provide technical expertise to Common Fund programs. 
-
-The CFDE-CC will host the following events:
-
-- A demonstration of the [CFDE Data Portal](https://app.nih-cfde.org/)
-- Access and working with Human Microbiome Project Data 
-- Data Visualization in R using Genotype-Tissue Expression (GTEx) Data
-
-
-[12]: https://github.com/nih-cfde/2022-may-hackathon/issues/12
-[11]: https://github.com/nih-cfde/2022-may-hackathon/issues/11
-[10]: https://github.com/nih-cfde/2022-may-hackathon/issues/10
-[9]: https://github.com/nih-cfde/2022-may-hackathon/issues/9
-[8]: https://github.com/nih-cfde/2022-may-hackathon/issues/8
-[7]: https://github.com/nih-cfde/2022-may-hackathon/issues/7
-[6]: https://github.com/nih-cfde/2022-may-hackathon/issues/6
-[5]: https://github.com/nih-cfde/2022-may-hackathon/issues/5
+If you have any questions, please contact the help desk at: support@cfde.atlassian.net 
