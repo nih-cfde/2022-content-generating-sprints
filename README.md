@@ -25,4 +25,3 @@ Both sprints will last 5 days and be largely asynchronous, besides an introducto
 ## Contact
 
 If you have any questions, please contact the help desk at: support@cfde.atlassian.net 
-
