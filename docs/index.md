@@ -1,6 +1,6 @@
 # Internal Content Generation Sprints
 
-The CFDE-CC will host two content generation sprints for DCCs and R03 recipients to produce annotations for CFDE Portal gene, anatomy terms, compounds, and diseases pages. Sprints will be in July and August, and are part of the larger effort to expand and showcase CFDE capabilities in preparation for the September demo to the Council of Councils.
+The CFDE-CC will host two content generation sprints for DCCs and R03 recipients to produce annotations for CFDE Portal gene, anatomy terms, compounds, and diseases pages. Sprints will be in July and August (dates to be determined), and are part of the larger effort to expand and showcase CFDE capabilities in preparation for the September demo to the Council of Councils.
 
 ## Who should participate?
 
