@@ -8,23 +8,15 @@ Do you have information on genes, anatomy terms, compounds, and diseases that do
 
 ## Scheduling
 
-We hope you will participate! Please fill out any blackout dates that do not work for you and your team here: https://forms.gle/zppvKfF5NQPXj4sr9. 
-
-We will do our best to accommodate schedule requests!
+We hope you will participate! Please [fill out this form](https://forms.gle/zppvKfF5NQPXj4sr9.) to indicated your interest, and add any blackout dates that do not work for you or your team. We will do our best to accommodate schedule requests!
 
 ## CFDE Portal Annotations
 
 The CFDE Portal can now support annotating controlled vocabulary pages with additional information. These annotations enrich existing pages by linking to external pages and metadata or interactive modules.
 
-See examples of annotated Gene and Anatomy pages under the “Resources” category:
+See examples of annotated [Gene](https://app.nih-cfde.org/chaise/record/#1/CFDE:gene/nid=1) and [Anatomy](https://app.nih-cfde.org/chaise/record/#1/CFDE:anatomy/nid=253) pages under the “Resources” category.
 
-https://app.nih-cfde.org/chaise/record/#1/CFDE:anatomy/nid=253
-
-https://app.nih-cfde.org/chaise/record/#1/CFDE:gene/nid=1
-
-Annotations must be written in a custom Markdown text format, and submitted to the CFDE-CC through a simple GitHub-based process. Importantly, annotations can be updated between portal data releases, on a semi-monthly schedule.
-
-We at the CFDE-CC will provide technical support while groups brainstorm and work together on building annotation-generating workflows throughout this sprint.
+We at the CFDE-CC will provide technical support while groups brainstorm and work together on building annotation-generating workflows throughout this sprint. Annotations must be written in a custom Markdown text format, and submitted to the CFDE-CC through a simple GitHub-based process. Importantly, annotations can be updated between portal data releases, on a semi-monthly schedule.
 
 ## Event Details
 
