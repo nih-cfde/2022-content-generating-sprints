@@ -8,7 +8,7 @@ Do you have information on genes, anatomy terms, compounds, and diseases that do
 
 ## Scheduling
 
-We hope you will participate! Please [fill out this form](https://forms.gle/zppvKfF5NQPXj4sr9.) to indicated your interest, and add any blackout dates that do not work for you or your team. We will do our best to accommodate schedule requests!
+We hope you will participate! Please [fill out this form](https://forms.gle/zppvKfF5NQPXj4sr9) to indicated your interest, and add any blackout dates that do not work for you or your team. We will do our best to accommodate schedule requests!
 
 ## CFDE Portal Annotations
 
