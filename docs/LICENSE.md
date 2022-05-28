@@ -1,6 +1,6 @@
 # DEDICATED TO THE PUBLIC DOMAIN
 
-The nih-cfde organization repo has been dedicated to the public domain.
+The nih-cfde/content-generation-sprints repo has been dedicated to the public domain.
 It is protected by the Creative Commons CC0 Universal Public Domain
 Dedication license. You can read the entire license below or at
 <http://creativecommons.org/publicdomain/zero/1.0/deed.en>.
