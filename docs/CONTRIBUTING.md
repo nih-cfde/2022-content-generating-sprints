@@ -1,6 +1,6 @@
-## Contributing to the [https://nih-cfde.github.io/2022-feb-hackathon/](https://nih-cfde.github.io/2022-may-hackathon/)
+## Contributing to [nih-cfde/2022-content-generation-sprints](https://github.com/nih-cfde/2022-content-generation-sprints)
 
-Hello, and thank you for wanting to contribute to the [2022-feb-hackathon Repository](https://github.com/nih-cfde/2022-may-hackathon)\!
+Hello, and thank you for wanting to contribute to the [2022-content-generation-sprints](https://github.com/nih-cfde/2022-content-generation-sprints) repo!
 
 By contributing to this repository, you agree:
 
