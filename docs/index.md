@@ -1,27 +1,35 @@
-# Internal Content Generation Sprints
+## Internal Content Generation Sprints
 
-The CFDE-CC will host two content generation sprints for DCCs and R03 recipients to produce annotations for CFDE Portal gene, anatomy terms, compounds, and diseases pages. Sprints will be in July and August (dates to be determined), and are part of the larger effort to expand and showcase CFDE capabilities in preparation for the September demo to the Council of Councils.
+The CFDE Coordinating Center will host two **content generation sprints** for DCCs and R03 recipients to produce annotations for CFDE Portal gene, anatomy, compounds, and diseases pages. Sprints will be in July and August, and are part of the larger effort to expand and showcase CFDE capabilities in preparation for the September demo to the Council of Councils.
 
 ## Who should participate?
 
-Do you have information on genes, anatomy terms, compounds, and diseases that don't fit within the current C2M2? If so, we want you to come to this sprint so that we can work together to add this information to the portal!
+Do you have information on genes, anatomy terms, compounds, and diseases that don't fit within the current [Crosscut Metadata Model](https://github.com/nih-cfde/published-documentation/wiki) (C2M2)? If so, we want *you* to come to this sprint so that we can work together to add this information to the portal!
 
 ## Scheduling
 
-We hope you will participate! Please [fill out this form](https://forms.gle/zppvKfF5NQPXj4sr9) to indicated your interest, and add any blackout dates that do not work for you or your team. We will do our best to accommodate schedule requests!
+We hope you will participate! Please fill out any blackout dates and provide your preliminary ideas here: [https://forms.gle/zppvKfF5NQPXj4sr9](https://docs.google.com/forms/d/e/1FAIpQLSfoTkAZ4YxD-b3xySWbTC37dppd9O1jH5g1k2R8oA-T-6JcYQ/viewform) 
+
+We will do our best to accommodate schedule requests!
 
 ## CFDE Portal Annotations
 
-The CFDE Portal can now support annotating controlled vocabulary pages with additional information. These annotations enrich existing pages by linking to external pages and metadata or interactive modules.
+The CFDE Portal can now support annotating controlled vocabulary pages with additional information. These annotations enrich existing pages by linking to external pages and metadata or interactive modules. These sprints will focus on generating annotations for [gene](https://app.nih-cfde.org/chaise/record/#1/CFDE:gene/nid=1), [anatomy](https://app.nih-cfde.org/chaise/record/#1/CFDE:anatomy/nid=1), [compound](https://app.nih-cfde.org/chaise/record/#1/CFDE:compound/nid=1), and [disease](https://app.nih-cfde.org/chaise/record/#1/CFDE:disease/nid=1) pages.
 
-See examples of annotated [Gene](https://app.nih-cfde.org/chaise/record/#1/CFDE:gene/nid=1) and [Anatomy](https://app.nih-cfde.org/chaise/record/#1/CFDE:anatomy/nid=253) pages under the “Resources” category.
+See examples of annotated Gene and Anatomy pages under the “Resources” category:
 
-We at the CFDE-CC will provide technical support while groups brainstorm and work together on building annotation-generating workflows throughout this sprint. Annotations must be written in a custom Markdown text format, and submitted to the CFDE-CC through a simple GitHub-based process. Importantly, annotations can be updated between portal data releases, on a semi-monthly schedule.
+https://app.nih-cfde.org/chaise/record/#1/CFDE:anatomy/nid=253
+
+https://app.nih-cfde.org/chaise/record/#1/CFDE:gene/nid=1
+
+Annotations must be written in a custom Markdown text format, and submitted to the CFDE-CC through a simple GitHub-based process. Importantly, annotations can be updated between portal data releases, on a semi-monthly schedule.
+
+We at the CFDE-CC will provide technical support while groups brainstorm and work together on building annotation-generating workflows throughout this sprint.
 
 ## Event Details
 
-Both sprints will last 5 days and be largely asynchronous, besides an introductory session to cover technical infrastructure and support. Several sessions will be run to help accommodate schedule conflicts. Throughout the week, co-working sessions over zoom with breakout rooms will be available where we can resolve problems and share solutions. A closing session will recap what work was accomplished, and goals for the next sprint.
+Both sprints will last 5 days and be **largely asynchronous**, besides an introductory session to cover technical infrastructure and support. Several sessions will be run to help accommodate schedule conflicts. Throughout the week, co-working sessions over zoom with breakout rooms will be available where we can resolve problems and share solutions.
 
-## Contact
+A closing session will recap what work was accomplished, and goals for the next sprint.
 
 If you have any questions, please contact the help desk at: support@cfde.atlassian.net 
