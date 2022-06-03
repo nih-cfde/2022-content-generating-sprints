@@ -18,11 +18,12 @@ The CFDE Portal can now support annotating controlled vocabulary pages with addi
 
 See examples of annotated Gene and Anatomy pages under the “Resources” category:
 
-https://app.nih-cfde.org/chaise/record/#1/CFDE:anatomy/nid=253
+<https://app.nih-cfde.org/chaise/record/#1/CFDE:anatomy/nid=253>
 
-https://app.nih-cfde.org/chaise/record/#1/CFDE:gene/nid=1
+<https://app.nih-cfde.org/chaise/record/#1/CFDE:gene/nid=1>
 
 Annotations must be written in a custom Markdown text format, and submitted to the CFDE-CC through a simple GitHub-based process. Importantly, annotations can be updated between portal data releases, on a semi-monthly schedule.
+At present we have a [running list of items](https://docs.google.com/spreadsheets/d/1NOIOg6zfkU4DwD0jwmAdOZdrII6sobbc04nUd1XY32I/edit#gid=0) that we know are available, and would like to use these sprints to help prioritize our activities.
 
 We at the CFDE-CC will provide technical support while groups brainstorm and work together on building annotation-generating workflows throughout this sprint.
 
