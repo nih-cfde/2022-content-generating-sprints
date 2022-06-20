@@ -20,7 +20,9 @@ We at the CFDE-CC will provide technical support while groups brainstorm and wor
 
 ## Event Details
 
-Both sprints will last 5 days and be largely asynchronous, besides an introductory session to cover technical infrastructure and support. Several sessions will be run to help accommodate schedule conflicts. Throughout the week, co-working sessions over zoom with breakout rooms will be available where we can resolve problems and share solutions. A closing session will recap what work was accomplished, and goals for the next sprint.
+On Monday, 6/27, we will post materials and a video about how to import data into the portal. We are happy to schedule a meeting the week of 6/27 - 7/1 with anyone who is interested! Please reach out to <support@cfde.atlassian.net> to schedule.
+
+Throughout the week we will be available to answer questions over GitHub and the #content-generation-sprint slack channel. We’ll be most available during the hours of 9 am - 2 pm PT. Most work will be asynchronous, but we can schedule additional meetings if need arises.
 
 ## Contact
 
