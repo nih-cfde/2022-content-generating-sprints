@@ -12,6 +12,22 @@ We hope you will participate! Please fill out any blackout dates and provide you
 
 We will do our best to accommodate schedule requests!
 
+### Sprint 1: June 27 - July 1, 2022
+
+
+| Day | Time | Topic |
+| --- | --- | --- |
+| Monday 6/27| 9 am - 10 am PT | Introduction to sprint goal and workflow, sprint logistics |
+| Tuesday 6/28 | 9 am - 11 am PT | Coworking |
+| Wednesday 6/29 | 9 am - 2 pm PT  | Available on slack for questions |
+| Thursday 6/30 | 9 am - 11 am PT | Coworking |
+| Friday 7/1 | 9 am - 10 am PT | Wrap-up, future directions, feedback |
+
+
+### Sprint 2: TBD
+
+The second will likely take place in August.
+
 ## CFDE Portal Annotations
 
 The CFDE Portal can now support annotating controlled vocabulary pages with additional information. These annotations enrich existing pages by linking to external pages and metadata or interactive modules. These sprints will focus on generating annotations for [gene](https://app.nih-cfde.org/chaise/record/#1/CFDE:gene/nid=1), [anatomy](https://app.nih-cfde.org/chaise/record/#1/CFDE:anatomy/nid=1), [compound](https://app.nih-cfde.org/chaise/record/#1/CFDE:compound/nid=1), and [disease](https://app.nih-cfde.org/chaise/record/#1/CFDE:disease/nid=1) pages.
