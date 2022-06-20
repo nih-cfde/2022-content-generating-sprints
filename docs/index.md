@@ -11,17 +11,15 @@ Do you have information on genes, anatomy terms, compounds, and diseases that do
 We hope you will participate, and we will do our best to accommodate schedule requests! Please fill out any blackout dates and provide your preliminary ideas here: [https://forms.gle/zppvKfF5NQPXj4sr9](https://docs.google.com/forms/d/e/1FAIpQLSfoTkAZ4YxD-b3xySWbTC37dppd9O1jH5g1k2R8oA-T-6JcYQ/viewform) 
 
 
-
 ### Sprint 1: June 27 - July 1, 2022
-
 
 | Day | Time | Topic |
 | --- | --- | --- |
-| Monday 6/27| 9 am - 10 am PT | Introduction to sprint goal and workflow, sprint logistics |
-| Tuesday 6/28 | 9 am - 11 am PT | Coworking |
-| Wednesday 6/29 | 9 am - 2 pm PT  | Available on slack for questions |
-| Thursday 6/30 | 9 am - 11 am PT | Coworking |
-| Friday 7/1 | 9 am - 10 am PT | Wrap-up, future directions, feedback |
+| Monday 6/27| 9 am - 10 am PT | Discussion of data and goals |
+| Tuesday 6/28 | 9 am - 2 pm PT | Available on slack at #content-generation-sprints |
+| Wednesday 6/29 | 9 am - 2 pm PT  | Available on slack at #content-generation-sprints  |
+| Thursday 6/30 | 9 am -10 am PT | Wrap-up, future directions, feedback |
+
 
 ### Sprint 2: August 8 - 12, 2022
 
