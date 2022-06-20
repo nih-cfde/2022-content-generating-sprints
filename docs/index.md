@@ -8,9 +8,9 @@ Do you have information on genes, anatomy terms, compounds, and diseases that do
 
 ## Scheduling
 
-We hope you will participate! Please fill out any blackout dates and provide your preliminary ideas here: [https://forms.gle/zppvKfF5NQPXj4sr9](https://docs.google.com/forms/d/e/1FAIpQLSfoTkAZ4YxD-b3xySWbTC37dppd9O1jH5g1k2R8oA-T-6JcYQ/viewform) 
+We hope you will participate, and we will do our best to accommodate schedule requests! Please fill out any blackout dates and provide your preliminary ideas here: [https://forms.gle/zppvKfF5NQPXj4sr9](https://docs.google.com/forms/d/e/1FAIpQLSfoTkAZ4YxD-b3xySWbTC37dppd9O1jH5g1k2R8oA-T-6JcYQ/viewform) 
 
-We will do our best to accommodate schedule requests!
+
 
 ### Sprint 1: June 27 - July 1, 2022
 
