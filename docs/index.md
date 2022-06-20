@@ -15,10 +15,10 @@ We hope you will participate, and we will do our best to accommodate schedule re
 
 | Day | Time | Topic |
 | --- | --- | --- |
-| Monday 6/27| 9 am - 10 am PT | Discussion of data and goals |
-| Tuesday 6/28 | 9 am - 2 pm PT | Available on slack at #content-generation-sprints |
-| Wednesday 6/29 | 9 am - 2 pm PT  | Available on slack at #content-generation-sprints  |
-| Thursday 6/30 | 9 am -10 am PT | Wrap-up, future directions, feedback |
+| Monday 6/27| TBD | Discussion of data and goals |
+| Tuesday 6/28 | 9 am - 2 pm PT | Available on slack at #content-generation-sprint |
+| Wednesday 6/29 | 9 am - 2 pm PT  | Available on slack at #content-generation-sprint  |
+| Thursday 6/30 | TBD | Wrap-up, future directions, feedback |
 
 
 ### Sprint 2: August 8 - 12, 2022
