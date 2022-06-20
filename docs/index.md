@@ -23,7 +23,6 @@ We hope you will participate, and we will do our best to accommodate schedule re
 | Thursday 6/30 | 9 am - 11 am PT | Coworking |
 | Friday 7/1 | 9 am - 10 am PT | Wrap-up, future directions, feedback |
 
-
 ### Sprint 2: August 8 - 12, 2022
 
 The schedule for Sprint 2 will be posted in late July or early August.
@@ -45,8 +44,6 @@ We at the CFDE-CC will provide technical support while groups brainstorm and wor
 
 ## Event Details
 
-Both sprints will last 5 days and be **largely asynchronous**, besides an introductory session to cover technical infrastructure and support. Several sessions will be run to help accommodate schedule conflicts. Throughout the week, co-working sessions over zoom with breakout rooms will be available where we can resolve problems and share solutions.
+Both sprints will last 5 days and be **largely asynchronous**, besides an introductory session to cover technical infrastructure and support. Several sessions will be run to help accommodate schedule conflicts. Throughout the week, co-working sessions over zoom with breakout rooms will be available where we can resolve problems and share solutions. A closing session will recap what work was accomplished, and goals for the next sprint.
 
-A closing session will recap what work was accomplished, and goals for the next sprint.
-
-If you have any questions, please contact the help desk at: support@cfde.atlassian.net 
+If you have any questions, please contact the help desk at <support@cfde.atlassian.net>. 
