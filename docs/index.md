@@ -24,9 +24,9 @@ We will do our best to accommodate schedule requests!
 | Friday 7/1 | 9 am - 10 am PT | Wrap-up, future directions, feedback |
 
 
-### Sprint 2: TBD
+### Sprint 2: August 8 - 12, 2022
 
-The second will likely take place in August.
+The schedule for Sprint 2 will be posted in late July or early August.
 
 ## CFDE Portal Annotations
 
