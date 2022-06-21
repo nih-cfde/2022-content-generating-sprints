@@ -1,6 +1,6 @@
 ## Internal Content Generation Sprints
 
-The CFDE Coordinating Center will host two **content generation sprints** for DCCs and R03 recipients to produce annotations for CFDE Portal gene, anatomy, compounds, and diseases pages. The first sprint will be from June 27 - July 1 and the second will be in July or August. These are part of the larger effort to expand and showcase CFDE capabilities in preparation for the September demo to the Council of Councils.
+The CFDE Coordinating Center will host two **content generation sprints** for DCCs and R03 recipients to produce annotations for CFDE Portal gene, anatomy, compounds, and diseases pages. The first sprint will be from June 27 - July 1, 2022 and the second will be August 8 - 12, 2022. These are part of the larger effort to expand and showcase CFDE capabilities in preparation for the September demo to the Council of Councils.
 
 ## Who should participate?
 
@@ -19,7 +19,6 @@ We hope you will participate, and we will do our best to accommodate schedule re
 | Tuesday 6/28 | 9 am - 2 pm PT | Available on slack at #content-generation-sprint |
 | Wednesday 6/29 | 9 am - 2 pm PT  | Available on slack at #content-generation-sprint  |
 | Thursday 6/30 | TBD | Wrap-up, future directions, feedback |
-
 
 ### Sprint 2: August 8 - 12, 2022
 
